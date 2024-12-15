@@ -2,4 +2,4 @@
 
 ---
 
-# <p style="color:purple; text-align: center">**Programmer & Gamer**<p>
+# <p style="text-align: center">**Programmer & Gamer**<p>
