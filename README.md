@@ -2,12 +2,21 @@
 
 ---
 
-# Languages
+<p align="center"; color='purple'; style="font-size:3vw; font-weight:750">About Me</p>
+
+
+---
 
 
 
 ---
 
-<p align="center">
-    g
-</p>
+<p align="center"; style="font-size:3vw; font-weight:750">Skills</p>
+
+---
+
+<p align="center"; style="font-size:3vw; font-weight:750">Links</p>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
+
