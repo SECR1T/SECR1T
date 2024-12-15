@@ -15,6 +15,7 @@ Chill Guy
 
 ![Assembly](https://img.shields.io/badge/-ASSEMBLY-090909?style=for-the-badge&logo=assemblyscript&logoColor=9932cc)
 ![C+](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus&logoColor=9932cc)
+
 ![Java](https://img.shields.io/badge/-JAVA-090909?style=for-the-badge&logo=openjdk&logoColor=9932cc)
 ![Kotlin](https://img.shields.io/badge/-KOTLIN-090909?style=for-the-badge&logo=kotlin&logoColor=9932cc)
 
@@ -35,6 +36,7 @@ Chill Guy
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=9932cc)](https://t.me/SECR1T)
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=9932cc)](https://discordapp.com/users/541615408155852800/)
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube&logoColor=9932cc)](https://www.youtube.com/@SECR1TYT/)
 
 ---
 
