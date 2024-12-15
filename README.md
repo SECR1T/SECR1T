@@ -8,7 +8,7 @@
 
 # <p align="center">**Skills**</p>
 
-![HTML5](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&logoColor=9932cc)
+![HTML5](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=9932cc)
 
 # <p align="center">**Links**</p>
 
