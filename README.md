@@ -27,7 +27,7 @@ Chill Guy
 
 ## <p align="center">**Tools**</p>
 
-![NodeJs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white&logoColor=9932cc)
+![NodeJs](https://img.shields.io/badge/node.js-090909?style=for-the-badge&logo=Node.js&logoColor=9932cc)
 
 
 ---
