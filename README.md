@@ -20,14 +20,14 @@ Chill Guy
 ![Kotlin](https://img.shields.io/badge/-KOTLIN-090909?style=for-the-badge&logo=kotlin&logoColor=9932cc)
 
 ![Python](https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=python&logoColor=9932cc)
-
+![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=javascript&logoColor=9932cc)
 
 ![HTML5](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=9932cc)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=9932cc)
 
 ## <p align="center">**Tools**</p>
 
-
+![NodeJs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white&logoColor=9932cc)
 
 
 ---
