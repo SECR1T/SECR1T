@@ -16,12 +16,15 @@ Chill Guy
 ![Assembly](https://img.shields.io/badge/-ASSEMBLY-090909?style=for-the-badge&logo=assemblyscript&logoColor=9932cc)
 ![C+](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus&logoColor=9932cc)
 ![Java](https://img.shields.io/badge/-JAVA-090909?style=for-the-badge&logo=openjdk&logoColor=9932cc)
+![Kotlin](https://img.shields.io/badge/-KOTLIN-090909?style=for-the-badge&logo=kotlin&logoColor=9932cc)
 
 ![Python](https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=python&logoColor=9932cc)
 
 
 ![HTML5](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=9932cc)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=9932cc)
+
+## <p align="center">**Tools**</p>
 
 
 
