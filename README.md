@@ -12,7 +12,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=9932cc)
 ![Pyrhon](https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=python&logoColor=9932cc)
 ![Java](https://img.shields.io/badge/-JAVA-090909?style=for-the-badge&logo=openjdk&logoColor=9932cc)
-![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript&logoColor=9932cc)
+![Assembly](https://img.shields.io/badge/-ASSEMBLY-000?&logo=assemblyscript&logoColor=9932cc)
 
 # <p align="center">**Links**</p>
 
