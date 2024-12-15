@@ -4,7 +4,7 @@
 
 # <p align="center">**About Me**</p>
 
-
+Chill Guy
 
 # <p align="center">**Skills**</p>
 
@@ -12,12 +12,13 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=9932cc)
 ![Pyrhon](https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=python&logoColor=9932cc)
 ![Java](https://img.shields.io/badge/-JAVA-090909?style=for-the-badge&logo=openjdk&logoColor=9932cc)
-![Assembly](https://img.shields.io/badge/-ASSEMBLY-000?&logo=assemblyscript&logoColor=9932cc)
+![Assembly](https://img.shields.io/badge/-ASSEMBLY-090909?style=for-the-badge&logo=assemblyscript&logoColor=9932cc)
 
 # <p align="center">**Links**</p>
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=9932cc)](https://t.me/SECR1T)
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=9932cc)](https://discordapp.com/users/541615408155852800/)
 
+---
 
 ![SECR1T Stats](https://github-readme-stats.vercel.app/api?username=SECR1T&show_icons=true&theme=synthwave)
