@@ -6,6 +6,8 @@
 
 Chill Guy
 
+---
+
 # <p align="center">**Skills**</p>
 
 ![HTML5](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=9932cc)
@@ -13,6 +15,8 @@ Chill Guy
 ![Pyrhon](https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=python&logoColor=9932cc)
 ![Java](https://img.shields.io/badge/-JAVA-090909?style=for-the-badge&logo=openjdk&logoColor=9932cc)
 ![Assembly](https://img.shields.io/badge/-ASSEMBLY-090909?style=for-the-badge&logo=assemblyscript&logoColor=9932cc)
+
+---
 
 # <p align="center">**Links**</p>
 
