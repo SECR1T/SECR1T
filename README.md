@@ -5,18 +5,13 @@
 # <p align="center">**About Me**</p>
 
 
----
-
-
-
----
 
 # <p align="center">**Skills**</p>
 
----
+
 
 # <p align="center">**Links**</p>
 
----
-![SECR1T Stats](https://github-readme-stats.vercel.app/api?username=SECR1T&show_icons=true&theme=synthwave)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/SECR1T)
 
+![SECR1T Stats](https://github-readme-stats.vercel.app/api?username=SECR1T&show_icons=true&theme=synthwave)
