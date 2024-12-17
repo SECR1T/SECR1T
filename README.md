@@ -24,7 +24,7 @@ Programmer, Gamer, Edge Project Founder
 
 ![HTML5](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=9932cc)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=9932cc)
-![Static Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+![Description](https://img.shields.io/badge/Exellect knowledge-8A2BE2)
 
 ## <p align="center">**Tools**</p>
 
