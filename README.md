@@ -18,7 +18,7 @@ Programmer, Gamer, Edge Project Founder
 
 ![Assembly](https://img.shields.io/badge/-ASSEMBLY-090909?style=for-the-badge&logo=assemblyscript&logoColor=9932cc)
 ![C+](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus&logoColor=9932cc)
-![Description](https://img.shields.io/badge/Middle_Knowledge-8A2BE2)
+![Description align="center"](https://img.shields.io/badge/Middle_Knowledge-8A2BE2)
 
 ![Python](https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=python&logoColor=9932cc)
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=javascript&logoColor=9932cc)![Description](https://img.shields.io/badge/Middle_Knowledge-8A2BE2)
