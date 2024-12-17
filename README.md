@@ -24,6 +24,7 @@ Programmer, Gamer, Edge Project Founder
 
 ![HTML5](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=9932cc)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=9932cc)
+![Static Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 
 ## <p align="center">**Tools**</p>
 
@@ -41,7 +42,8 @@ Programmer, Gamer, Edge Project Founder
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube&logoColor=9932cc)](https://www.youtube.com/@SECR1TYT/)
 
 ---
-## <p align="center">**Links on Edge Project**</p>
+## <p align="center">**Links on ![Edge Project]**(https://img.shields.io/badge/:badgeContent)
+**</p>
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube&logoColor=9932cc)](https://www.youtube.com/@EdgeProjectYT)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=9932cc)](https://t.me/+7-RfpOTPnEc2N2Uy)
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=9932cc)](https://discord.gg/JXKw4J86fX)
