@@ -43,8 +43,7 @@ Programmer, Gamer, Edge Project Founder
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube&logoColor=9932cc)](https://www.youtube.com/@SECR1TYT/)
 
 ---
-## <p align="center">**Links on Edge Project**
-**</p>
+## <p align="center">**Links on Edge Project**</p>
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube&logoColor=9932cc)](https://www.youtube.com/@EdgeProjectYT)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=9932cc)](https://t.me/+7-RfpOTPnEc2N2Uy)
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=9932cc)](https://discord.gg/JXKw4J86fX)
