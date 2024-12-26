@@ -18,7 +18,7 @@ Programmer, Gamer, Edge Project Founder
 
 ![Assembly](https://img.shields.io/badge/-ASSEMBLY-090909?style=for-the-badge&logo=assemblyscript&logoColor=9932cc)
 ![C+](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus&logoColor=9932cc)
-![Description align="center"](https://img.shields.io/badge/Middle_Knowledge-8A2BE2)
+![Description](https://img.shields.io/badge/Middle_Knowledge-8A2BE2)
 
 ![Python](https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=python&logoColor=9932cc)
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=javascript&logoColor=9932cc)![Description](https://img.shields.io/badge/Middle_Knowledge-8A2BE2)
@@ -43,7 +43,7 @@ Programmer, Gamer, Edge Project Founder
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube&logoColor=9932cc)](https://www.youtube.com/@SECR1TYT/)
 
 ---
-## <p align="center">**Links on ![Edge Project]**(https://img.shields.io/badge/:badgeContent)
+## <p align="center">**Links on Edge Project**
 **</p>
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube&logoColor=9932cc)](https://www.youtube.com/@EdgeProjectYT)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=9932cc)](https://t.me/+7-RfpOTPnEc2N2Uy)
