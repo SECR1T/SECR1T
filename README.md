@@ -1,4 +1,4 @@
-[![Header](assets/77.gif)](https://www.youtube.com/@SECR1TYT)
+[![Header](assets/board.jpg)](https://www.youtube.com/@SECR1TYT)
 
 ---
 
