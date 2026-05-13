@@ -1,47 +1,41 @@
-[![Header](assets/board.jpg)](https://www.youtube.com/@SECR1TYT)
+[![Header](assets/77.gif)](https://www.youtube.com/@SECR1TYT)
+
+<div align="center">
+  <h1>Hey, I'm SECR1T 👾</h1>
+  
+  **Programmer • Reverse Engineer • Edge Project Founder**
+
+  <br>
+
+  [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SECR1T)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/541615408155852800)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SECR1TYT)
+</div>
 
 ---
 
-# <p align="center">**About Me**</p>
+### 🛠️ Main Skills
 
-<p align="center">Programer, Engineer,  Gamer<p>
+**Languages**
+- **High:** HTML • CSS • JavaScript
+- **Middle:** Python • C++ • Kotlin • Java
+- **Low/Basic:** Assembly
 
----
-
-# <p align="center">**Skills**</p>
-
-
-## <p align="center">**Languages**</p>
-
-![Java](https://img.shields.io/badge/-JAVA-090909?style=for-the-badge&logo=openjdk&logoColor=9932cc)
-![Kotlin](https://img.shields.io/badge/-KOTLIN-090909?style=for-the-badge&logo=kotlin&logoColor=9932cc)![Description](https://img.shields.io/badge/Basic_Knowledge-8A2BE2)
-
-
-![Python](https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=python&logoColor=9932cc)
-![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=javascript&logoColor=9932cc)![Description](https://img.shields.io/badge/Middle_Knowledge-8A2BE2)
-
-![Assembly](https://img.shields.io/badge/-ASSEMBLY-090909?style=for-the-badge&logo=assemblyscript&logoColor=9932cc)
-![C+](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus&logoColor=9932cc)
-![Description](https://img.shields.io/badge/Middle_Knowledge-8A2BE2)
-
-![HTML5](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=9932cc)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=9932cc)
-![Description](https://img.shields.io/badge/High_Knowledge-8A2BE2)
-
-## <p align="center">**Tools**</p>
-
-![NodeJs](https://img.shields.io/badge/node.js-090909?style=for-the-badge&logo=Node.js&logoColor=9932cc)
-![Spring](https://img.shields.io/badge/Spring%20framework-090909?style=for-the-badge&logo=spring&logoColor=9932cc)
+**Tools & Frameworks**
+- Node.js • Spring Framework • NeoVim • Linux • NixOS
 
 ---
 
-# <p align="center">**Links**</p>
+### 📌 Projects
 
-<p align="center">If you want to have contact with me</p>
+- **[Edge Project](https://www.youtube.com/@EdgeProjectYT)** — Main project
+- **Tempora** — ...
+- **dotfiles** — My NixOS + Hyprland setup
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=9932cc)](https://t.me/SECR1T)
-[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=9932cc)](https://discordapp.com/users/541615408155852800/)
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube&logoColor=9932cc)](https://www.youtube.com/@SECR1TYT/)
+---
 
+### 📊 Stats
 
-![SECR1T Stats](https://github-readme-stats.vercel.app/api?username=SECR1T&show_icons=true&theme=synthwave)
+![SECR1T Stats](https://github-readme-stats.vercel.app/api?username=SECR1T&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SECR1T&layout=compact&theme=tokyonight&hide_border=true)
