@@ -1,7 +1,7 @@
 [![Header](assets/77.gif)](https://www.youtube.com/@SECR1TYT)
 
 <div align="center">
-  <h1>Hey, I'm SECR1T 👾</h1>
+  <h1>Hey, I'm SECR1T </h1>
   
   **Programmer • Reverse Engineer • Edge Project Founder**
 
