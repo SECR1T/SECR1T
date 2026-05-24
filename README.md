@@ -18,20 +18,11 @@
 
 **Languages**
 - **High:** HTML • CSS • JavaScript
-- **Middle:** Python • C++ • Kotlin • Java
-- **Low/Basic:** Assembly
+- **Middle:** Python • C++ • Kotlin 
+- **Low/Basic:** Assembly • Java • Rust
 
 **Tools & Frameworks**
-- Node.js • Spring Framework • NeoVim • Linux • NixOS
+- Node.js • Spring Framework • NeoVim • Arch Hyprland
 
 ---
-
-### Projects
-
-- **[Edge Project](https://www.youtube.com/@EdgeProjectYT)** — Main project
-- **Tempora** — ...
-- **dotfiles** — My NixOS + Hyprland setup
-
----
-
 
