@@ -3,7 +3,7 @@
 <div align="center">
   <h1>Hey, I'm SECR1T</h1>
   
-  **Programmer • Reverse Engineer • Edge Project Founder**
+  Junior Hardware & Linux Engineer
 
   <br>
 
@@ -14,15 +14,36 @@
 
 ---
 
+### About Me
+
+21-year-old Hardware & Linux enthusiast. For more than two years I've been running my own home lab, focusing on server assembly, hardware maintenance, and Linux systems.
+
+Passionate about building reliable infrastructure, troubleshooting complex issues, and continuous learning.
+
 ### Main Skills
 
-**Languages**
-- **High:** HTML • CSS • JavaScript
-- **Middle:** Python • C++ • Kotlin 
-- **Low/Basic:** Assembly • Java • Rust
+Hardware & Servers
+- Server assembly and upgrade (consumer + server-grade components)
+- Hardware diagnostics and repair
+- RAID arrays configuration (mdadm)
+- LVM management
+- Data backup and storage systems
 
-**Tools & Frameworks**
-- Node.js • Spring Framework • NeoVim • Arch Hyprland
+Operating Systems
+- Linux (Arch Linux, Debian, Ubuntu Server) — installation, configuration, troubleshooting
+- Docker (basic level)
 
----
+Programming & Tools
+- Bash
+- Python
+- Git
+- TCP/IP, DNS, DHCP, SSH basics
 
+### Home Laboratory
+
+- Maintain multiple servers with different configurations
+- Regular hardware assembly, upgrades and diagnostics
+- Configure reliable storage solutions using RAID and LVM
+- Work with Linux systems and containerization
+
+Always open to new challenges and interesting projects.
