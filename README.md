@@ -1,45 +1,35 @@
-[![Header](assets/77.gif)](https://www.youtube.com/@SECR1TYT)
+# SECR1T
 
-<div align="center">
-  <h1>Hey, I'm SECR1T</h1>
-  
-  Junior Hardware & Linux Engineer
+Junior Hardware & Linux Engineer
 
-  <br>
+### Skills
 
-  [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SECR1T)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/541615408155852800)
-</div>
-
----
-
-### Main Skills
-
-Hardware & Servers
-- Server assembly and upgrade (consumer + server-grade components)
-- Hardware diagnostics and repair
-- RAID arrays configuration (mdadm)
-- LVM management
-- Data backup and storage systems
+Hardware
+- Server assembly and upgrade (consumer + server components)
+- Hardware diagnostics and troubleshooting
+- RAID configuration (mdadm)
+- LVM
+- Data backup systems
 
 Operating Systems
-- Linux (Arch Linux, Debian, Ubuntu Server) — installation, configuration, troubleshooting
-- Docker (basic level)
+- Linux (Arch Linux, Debian, Ubuntu Server)
+- Linux installation, configuration and troubleshooting
 
-Programming & Tools
-- Bash
+Tools & Technologies
+- Docker (basic)
+- Bash scripting
 - Python
-- C++
-- Rust
 - Git
-- TCP/IP, DNS, DHCP, SSH basics
-  
+- TCP/IP, DNS, DHCP, SSH
 
-### Home Laboratory
+### Experience
+- 2+ years running personal home lab
+- Server building, maintenance and hardware repair
+- Linux systems administration practice
 
-- Maintain multiple servers with different configurations
-- Regular hardware assembly, upgrades and diagnostics
-- Configure reliable storage solutions using RAID and LVM
-- Work with Linux systems and containerization
+### Projects
+- Home lab infrastructure (multiple servers)
+- Custom RAID + LVM storage setups
+- Docker-based services deployment
 
-Always open to new challenges and interesting projects.
+---
