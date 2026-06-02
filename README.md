@@ -19,6 +19,7 @@ Tools & Technologies
 - Docker (basic)
 - Bash scripting
 - Python
+- C++
 - Git
 - TCP/IP, DNS, DHCP, SSH
 
