@@ -9,14 +9,13 @@
 
   [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SECR1T)
   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/541615408155852800)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SECR1TYT)
 </div>
 
 ---
 
 ### About Me
 
-21-year-old Hardware & Linux enthusiast. For more than two years I've been running my own home lab, focusing on server assembly, hardware maintenance, and Linux systems.
+21-year-old Hardware & Linux enthusiast. Since I've been running my own home lab, focusing on server assembly, hardware maintenance, and Linux systems.
 
 Passionate about building reliable infrastructure, troubleshooting complex issues, and continuous learning.
 
@@ -36,8 +35,11 @@ Operating Systems
 Programming & Tools
 - Bash
 - Python
+- C++
+- Rust
 - Git
 - TCP/IP, DNS, DHCP, SSH basics
+  
 
 ### Home Laboratory
 
