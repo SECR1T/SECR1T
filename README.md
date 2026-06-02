@@ -13,12 +13,6 @@
 
 ---
 
-### About Me
-
-21-year-old Hardware & Linux enthusiast. Since I've been running my own home lab, focusing on server assembly, hardware maintenance, and Linux systems.
-
-Passionate about building reliable infrastructure, troubleshooting complex issues, and continuous learning.
-
 ### Main Skills
 
 Hardware & Servers
